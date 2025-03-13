@@ -11,4 +11,5 @@ Burnie-Bot is a personal project meant to streamline some basic tasks in the FRC
 
 ## Acknowledgements
 
-[Slackbot Tutorial](https://www.youtube.com/watch?v=KJ5bFv-IRFM)
+[Slackbot Tutorial: Setup](https://www.youtube.com/watch?v=KJ5bFv-IRFM)  
+[Slackbot Tutorial: Event Handling](https://www.youtube.com/watch?v=6gHvqXrfjuo)
